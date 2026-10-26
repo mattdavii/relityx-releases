@@ -17,6 +17,6 @@ Na [última versão](https://github.com/mattdavii/relityx-releases/releases/late
 
 O app pede uma chave de ativação na primeira abertura: envie ao responsável o código da máquina mostrado na tela.
 
-Nos computadores (Linux e Windows), o app avisa sozinho quando sai uma versão nova. No Android, instale o APK novo por cima.
+O app avisa sozinho quando sai uma versão nova. Nos computadores, "Atualizar agora" instala e reinicia. No Android (a partir da 0.2.1), o app baixa a versão nova e abre a instalação: toque em "Instalar"; na primeira vez, permita que o Relityx instale apps. Quem tem a 0.2.0 no celular instala a 0.2.1 por cima uma vez, baixando o APK desta página.
 
 Os diagnósticos exibidos pelo Relityx são apoio à análise e precisam de validação técnica.
